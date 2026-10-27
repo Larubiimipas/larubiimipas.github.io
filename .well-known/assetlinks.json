@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.larubiimipas.twa",
+    "sha256_cert_fingerprints": ["4F:5B:A8:2B:51:CA:B8:7F:AF:0C:38:96:72:51:F9:79:6F:A5:F6:4C:8D:2A:7E:53:FA:97:D0:C6:27:1B:9A:A9"]
+  }
+}]
